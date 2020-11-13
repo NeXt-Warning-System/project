@@ -1,7 +1,7 @@
-# Staff Alerts Week X Update
+# Warning Service Week X Update
 **Week beginning: X** 
 
-Prepared by: X
+Prepared by: Warning Service Product Team
 
 ## What we’ve been up to​ this week​
 
