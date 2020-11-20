@@ -9,6 +9,7 @@ Prepared by: XWS Alpha Team
 * Finalised User Research interview questions
 * Deploying our first iteration on to GOV.UK Platform as a Service (PaaS)
 * Creation of a Development Build Pipeline 
+* Documenting the technical prototypes/ideas
 * Reviewing and prioritizing User stories and needs
 * Engagement with Commercial Team regarding Framework and how to show value for money
 * Dialogue with AWS Webops and inititial architecture view
@@ -19,6 +20,8 @@ Prepared by: XWS Alpha Team
 
 * Conducting 5 User Research Session with internal Duty Officers
 * Ongoing investigation of the development and build pipeline
+* More work on technical documentation and potential solutions
+* Contact cloud service center to begin Azure Login/Roles App
 * Team day show and share with a retro
 * External Digital Service Ways of Working
 * Ongoing Engagement with Natural Resource Wales
