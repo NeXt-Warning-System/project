@@ -5,11 +5,11 @@ Prepared by: Warning Service Product Team
 
 ## What we’ve been up to​ this week​
 
-  1 Recruiting and Setting up User Research Session with Duty Officer and Citizen
+  1 Recruiting and Setting up User Research Session with Duty Officer and Citizens
   
-  2 Deploying Our first iteration to GOV UK Platform as a Service
+  2 Deploying Our first iteration on to GOV UK Platform as a Service
   
-  3 Creation of a Builid Pipeline
+  3 Creation of a Development Builid Pipeline
   
   4 Reviewing and prioritizing User stories and needs
   
@@ -17,7 +17,7 @@ Prepared by: Warning Service Product Team
   
   6 Policy Agreement to Warning People over properties
   
-  7 Dialogue with Webops and inititial architecture view
+  7 Dialogue with AWS Webops and inititial architecture view
 
 ## What we’re planning for ​next week
 
