@@ -10,6 +10,7 @@ Prepared by: XWS Alpha Team
 * Deploying our first iteration on to GOV.UK Platform as a Service (PaaS)
 * Creation of a Development Build Pipeline 
 * Documenting the technical prototypes/ideas
+* Researching existing government design patterns for internal systems, and prototype platforms
 * Reviewing and prioritizing User stories and needs
 * Engagement with Commercial Team regarding Framework and how to show value for money
 * Dialogue with AWS Webops and inititial architecture view
@@ -21,6 +22,7 @@ Prepared by: XWS Alpha Team
 * Conducting 5 User Research Session with internal Duty Officers
 * Ongoing investigation of the development and build pipeline
 * More work on technical documentation and potential solutions
+* Set up and host a design system build for future prototype iterations of the messaging system
 * Contact cloud service center to begin Azure Login/Roles App
 * Team day show and share with a retro
 * External Digital Service Ways of Working
