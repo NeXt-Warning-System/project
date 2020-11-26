@@ -10,7 +10,7 @@
 * Mark Sherwood – [Delivery Manager](#delivery-manager)
 * Claire Kemp – [Product Manager](#product-manager)
 * Neil McLaughlin – [Lead developer](#lead-developer)
-* Dave Stone – [Lead developer](#lead-developer)
+* Dave Stone – [Developer](#developer)
 
 
 ## Responsibilities
@@ -51,16 +51,3 @@ A developer delivers software components that form part of a product. In this ro
 * write clean, secure and well-tested code
 * operate the services they build and identify issues in production
 
-### Tester
-
-A tester (test engineer) works closely with the developer to establish the basis of testing. At this level, you will:
-
-* develop test scripts
-* raise awareness of and manage defects
-
-### Service Designer
-
-Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. At this level, you:
-
-* will lead the development of design concepts
-* should be able to interpret evidence-based research and incorporate this into your work
