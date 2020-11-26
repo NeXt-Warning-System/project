@@ -1,4 +1,4 @@
-# NeXt Warning System (XWS) Week X Update
+# NeXt Warning System (XWS) Week 1 Update
 **Week beginning: XXX** 
 
 Prepared by: XWS Alpha Team
