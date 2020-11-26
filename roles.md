@@ -1,14 +1,17 @@
-# Staff Alerts - Team roles and responsibilities 
-
-Agreed in [week 2](/updates/week2.md)
+# XWS - Team roles and responsibilities 
 
 ## Team and roles
 
-* Liz Hills – [Delivery Manager](#delivery-manager)
-* Polly Sait – [Product Manager](#product-manager)
+* Kate Marks - Projecy Exectutive 
+* Karen Alden - Project Manager
+* Peter Howe - Project Manager
+* Paul Brown - Project Support Officer
+
+* Mark Sherwood – [Delivery Manager](#delivery-manager)
+* Claire Kemp – [Product Manager](#product-manager)
+* Neil McLaughlin – [Lead developer](#lead-developer)
 * Dave Stone – [Lead developer](#lead-developer)
-* Ray Hanson – [Developer](#developer) and [Tester](#tester)
-* Simon Nebesnuick – [Service Design](#service-designer)
+
 
 ## Responsibilities
 
