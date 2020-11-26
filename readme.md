@@ -13,6 +13,7 @@
 ## Recent updates
 
 * [Week 0](/updates/week0.md) - beginning 16th November 2020
+* [Week 1](/updates/week1.md) - beginning 23rd November 2020
 
 
 ## Background
