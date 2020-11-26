@@ -1,4 +1,4 @@
-# Staff Alerts - Proposal
+# XWS - Proposal
 
 - [Recent updates](#recent-updates)
 - [Background](#background)
@@ -12,14 +12,7 @@
 
 ## Recent updates
 
-* [Week 0](/updates/week0.md) - beginning 7 September
-* [Week 1](/updates/week1.md) - beginning 14 September
-* [Week 2](/updates/week2.md) - beginning 21 September
-* [Week 3](/updates/week3.md) - beginning 28 September
-* [Week 4](/updates/week4.md) - beginning 5 October
-* [Week 5](/updates/week5.md) - beginning 12 October
-* [Week 6](/updates/week6.md) - beginning 19 October
-* [Week 7](/updates/week7.md) - beginning 26 October
+* [Week 0](/updates/week0.md) - beginning 16th November 2020
 
 
 ## Background
