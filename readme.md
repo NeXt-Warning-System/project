@@ -23,7 +23,7 @@ We will deliver a warning service that will save lives and protect livelihoods; 
 
 * Deliver a **replacement hazard alerting service** to provide continuity of service from FWS by 22 Dec 2022 (replacement)   
 
-### Secondary
+### Secondary - XWS will be an improvement over FWS by:
 
 * We will be **focus on users;** designing a service to meet their present needs with the flexibility to meet future needs whilst safeguarding personal data (effectiveness and compliance) 
 * The system will be designed to utilise the right technology, tools and ways of working making it **simpler** for all types of user (effectiveness) 
