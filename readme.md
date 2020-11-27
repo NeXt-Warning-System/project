@@ -1,13 +1,9 @@
 # XWS - Proposal
 
 - [Recent updates](#recent-updates)
-- [Background](#background)
-- [Goals](#goals)
+- [Vision](#vision)
 - [Objectives](#objectives)
-- [Benefits](#benefits)
-- [Timeline](#timeline)
 - [Team](#team)
-  * [Subject Matter Experts](#subject-matter-experts)
 
 
 ## Recent updates
