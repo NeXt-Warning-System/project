@@ -16,67 +16,30 @@
 * [Week 1](/updates/week1.md) - beginning 23rd November 2020
 
 
-## Background
+## Vision
 
-The Staff Alerts service will provide a centralised facility which can rapidly inform Environment Agency (EA) staff of notifiable events via text message, the Staff Information website and Helpline. Clear communications are vital to business delivery, so a consistent and rapid method of creating, approving and sending messages is critical.
-
-The intention is for this service to potentially replace the existing EA Text Alerts service which is hard to maintain and manage. The currently in progress "Defra Single Group Text Alert Service" project does **not** intend to replace the existing EA Text Alerts service.
-
-
-## Goals
-
-* To build a service to notify staff about incidents affecting EA sites and 16 operational areas
-* To create a quick, user-friendly and low-cost service
-* To allow staff to “self-manage” their details
-* To design a service that can be re-used by others
+We will deliver a warning service that will save lives and protect livelihoods; by providing accurate and relevant information to users who need it, when they need it, in ways they want it – so they can take the right action.
 
 
 ## Objectives
 
-1. Identify and implement a way to securely obtain, maintain and store the necessary staff data across the organisation - following GDPR requirements
+### Core
 
-1. Identify and implement a way to allow staff to securely register, maintain and remove their own data from the service - following GDPR requirements
+* Deliver a replacement hazard alerting service to provide continuity of service from FWS by 22 Dec 2022 (replacement)   
 
-1. Create an accessible and intuitive internal interface that:
-    1. has a secure user login mechanism
-    1. allows for the selection of a group to send a message to
-    1. allows for "approval" of messages before sending
-    1. allows for the issuing of messages
-    
-1. Identify and implement a way to send text messages to relevant staff using GOV.UK Notify
+### Secondary
 
-1. Fully document the approach, design, implementation and next steps for full service implementation
-
-1. Handover for future management and delivery to Internal Digital Services
-    
-
-## Benefits
-
-* Provides a better service for users with lower overheads 
-* We can better meet the user needs we have seen and have had through feedback
-* Substantially reduces the maintenance overhead from the External Digital Services team
-* Lower cost (current contract ~ around £40k - does not include staff time and overheads)
-* Ability to re-use components from XWS (NeXt Warning System) development
-* Ability to open source our work for re-use by Defra or others without restriction
-* Provide a seamless transition to Internal Digital Services for future management
-
-
-## Timeline
-
-* 14 Sep - 25 Sep: Disco/Planning/UR/Backlog refinement - 2 weeks
-* 28 Sep - 09 Oct: Alpha build - 2 weeks
-* 12 Oct - 16 Oct: Iteration and user testing - 1 week
-* 19 Oct - 23 Oct: Iteration and user testing - 1 week
-* 26 Oct - 30 Oct: Contingency week
-* November: Initial release
-
+* We will be focus on users; designing a service to meet their present needs with the flexibility to meet future needs whilst safeguarding personal data (effectiveness and compliance) 
+* The system will be designed to utilise the right technology, tools and ways of working making it simpler for all types of user (effectiveness) 
+* We will ensure that there is an increase in the timeliness and quality of information to allow users to take appropriate action  at the right time (effectiveness). 
+* We will deliver a marked increase in user satisfaction 
+* XWS is resilient and can be improved cost effectively in the future to exploit technological innovation to ensure that we continue to deliver a warning service to public and professional partners (economy) 
+* We have the flexibility to quickly improve and implement new developments ourselves so we are efficient in the delivery of  the service/products to our customers (efficiency)   
+* We will ensure the service is flexible to adapt to the increasing flood risk, maximize automation, warn people on the move (effectiveness) 
+* We will deliver a hazard alerting engine by 2023 that can be used across the EA and the UK Government (economy)
+ 
 
 ## Team
 
 See [here](/roles.md)
 
-### Subject Matter Experts
-
-* Internal Digital Services - Sharon Sawyer
-* Incident Communication Service - Steph Turner, Lisa Matthews
-* Business Continuity Incident Management – Chris Strong, Catherine Braun and Mel Cox
