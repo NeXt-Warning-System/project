@@ -17,6 +17,8 @@ Prepared by: XWS Team
 * Show and Share and Team Retro
 * Working with FIM service to agree timescales of key policy decisions needed for XWS
 * Joining up with FWEP on their discovery, automation and CAP messages
+* Technology workshops discussing strategies in developing the core alerting system and sub-systems
+* Deployed web UI prototypes to GOV.UK PaaS via Github Actions CI
 
 
 ## What we’re planning for next week
@@ -25,11 +27,13 @@ Prepared by: XWS Team
 * Consolidating Notes from Internal User Research sessions
 * Catch up with the DDTS Sustainability Team regarding Sustainability benefits of XWS and wider Flood Warning Service in support of delivering Net Zero targets
 * Meeting with Fujitsu
+* Continue tech workshops and documentation. Speak to wider flood development team and discuss current options.
 
 ## Blockers, issues or questions
 
-* None
+* Workshopping online is an issue but new tools are starting to help
+* Lots of questions around the current FWS. There's lots to learn and understand how XWS beings to replace it.
 
 ## Biggest risks
 
-* None
+* Development is continuing along the lines of what we do know about current FWS and what an generic Alert System needs, how best to decompose those needs and then looking into strategies on how they could be delivered in a robust way. The idea being that we'll then fit current FWS into it as we begin to understand more about it. This feels comfortable for the time being but it is a risk.
