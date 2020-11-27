@@ -1,4 +1,4 @@
-# XWS - Proposal
+# NeXt Warning System (XWS)
 
 - [Recent updates](#recent-updates)
 - [Vision](#vision)
