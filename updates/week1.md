@@ -19,6 +19,7 @@ Prepared by: XWS Alpha Team
 
 * User Research Session with Duty Officers
 * Consolidating Notes from Internal User Research sessions
+* catch up with the DDTS Sustainability Team regarding Sustainability benefits of XWS and wider Flood Warning Service in support of delivering Net Zero targets
 
 ## Blockers, issues or questions
 
