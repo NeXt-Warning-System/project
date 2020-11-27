@@ -15,6 +15,8 @@ Prepared by: XWS Team
 * Creating a learning and knowledge library for the team and potentially new team memebers
 * Preparing Post Christmas Goals
 * Show and Share and Team Retro
+* Working with FIM service to agree timescales of key policy decisions needed for XWS
+* Joining up with FWEP on their discovery, automation and CAP messages
 
 
 ## What we’re planning for next week
@@ -25,8 +27,8 @@ Prepared by: XWS Team
 
 ## Blockers, issues or questions
 
-* 
+* None
 
 ## Biggest risks
 
-* 
+* None
