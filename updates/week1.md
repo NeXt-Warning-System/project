@@ -24,6 +24,7 @@ Prepared by: XWS Team
 * More Internal User Research Sessions with Duty Officers
 * Consolidating Notes from Internal User Research sessions
 * Catch up with the DDTS Sustainability Team regarding Sustainability benefits of XWS and wider Flood Warning Service in support of delivering Net Zero targets
+* Meeting with Fujitsu
 
 ## Blockers, issues or questions
 
