@@ -21,18 +21,18 @@ We will deliver a warning service that will save lives and protect livelihoods; 
 
 ### Core
 
-* Deliver a replacement hazard alerting service to provide continuity of service from FWS by 22 Dec 2022 (replacement)   
+* Deliver a **replacement hazard alerting service** to provide continuity of service from FWS by 22 Dec 2022 (replacement)   
 
 ### Secondary
 
-* We will be focus on users; designing a service to meet their present needs with the flexibility to meet future needs whilst safeguarding personal data (effectiveness and compliance) 
-* The system will be designed to utilise the right technology, tools and ways of working making it simpler for all types of user (effectiveness) 
-* We will ensure that there is an increase in the timeliness and quality of information to allow users to take appropriate action  at the right time (effectiveness). 
+* We will be **focus on users;** designing a service to meet their present needs with the flexibility to meet future needs whilst safeguarding personal data (effectiveness and compliance) 
+* The system will be designed to utilise the right technology, tools and ways of working making it **simpler** for all types of user (effectiveness) 
+* We will ensure that there is an increase in the **timeliness and quality of information** to allow users to take appropriate action  at the right time (effectiveness). 
 * We will deliver a marked increase in user satisfaction 
-* XWS is resilient and can be improved cost effectively in the future to exploit technological innovation to ensure that we continue to deliver a warning service to public and professional partners (economy) 
-* We have the flexibility to quickly improve and implement new developments ourselves so we are efficient in the delivery of  the service/products to our customers (efficiency)   
-* We will ensure the service is flexible to adapt to the increasing flood risk, maximize automation, warn people on the move (effectiveness) 
-* We will deliver a hazard alerting engine by 2023 that can be used across the EA and the UK Government (economy)
+* XWS is resilient and can be **improved cost effectively** in the future to exploit technological innovation to ensure that we continue to deliver a warning service to public and professional partners (economy) 
+* We have the flexibility to **quickly improve and implement new developments ourselves** so we are efficient in the delivery of  the service/products to our customers (efficiency)   
+* We will ensure the service is **flexible** to adapt to the increasing flood risk, maximize automation, warn people on the move (effectiveness) 
+* We will deliver a **hazard alerting engine** by 2023 that can be used across the EA and the UK Government (economy)
  
 
 ## Team
