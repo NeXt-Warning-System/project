@@ -6,6 +6,7 @@
 * Karen Alden - Project Manager
 * Peter Howe - Project Manager
 * Paul Brown - Project Support Officer
+* Yvonne Moore - Service Owner
 * Mark Sherwood – Delivery Manager
 * Claire Kemp – Product Manager
 * Jacqueline Buckley - User Researcher
@@ -14,6 +15,8 @@
 * Christina Gyles - User Experience Designer 
 * Neil McLaughlin – Developer
 * Dave Stone – Developer
-
-
-## Responsibilities
+* Pete Dobson - FIM Service Senior User
+* Steve White - FWS Product Manager
+* Simon Nebesnuick - Subject Matter Expert
+* Ray Hanson - Subject Matter Expert
+* Natasha Temple-Cox - Subject Matter Expert
