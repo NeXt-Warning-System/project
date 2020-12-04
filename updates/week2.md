@@ -9,7 +9,7 @@ Prepared by: XWS Alpha Team
 * Attended show and tell with Google on Warning and Informing in the EA
 * Met with Fujitsu to provide an update on our progress
 * Attended the FIM Steering Network group to update on XWS links to FIM Service changes
-* Finished our first trance of Internal User Research sessions
+* Finished our first tranche of Internal User Research sessions
 * Explored how addresses could be managed in XWS with External Digital Services (EDS)
 
 ## What we’re planning for next week
