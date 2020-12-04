@@ -14,14 +14,14 @@ Prepared by: XWS Alpha Team
 
 ## What we’re planning for next week
 
-* XWS team day including show and tel
+* XWS team day including show and tell
 * Working with EDS to kick off EDW Seperation
 * Show and tell with Australian BOM to gain insite on how they have automated some of their messages
 
 ## Blockers, issues or questions
 
-* 
+* None
 
 ## Biggest risks
 
-* 
+* Staff availability due to Covid-19
