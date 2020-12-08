@@ -12,6 +12,8 @@
 * [Week 1](/updates/week1.md) - week beginning 23rd November 2020
 * [Week 2](/updates/week2.md) - week beginning 30th November 2020
 * [Week 3](/updates/week3.md) - week beginning 7th December 2020
+* [Week 4](/updates/week4.md) - week beginning 14th December 2020
+* [Week 5](/updates/week5.md) - week beginning 4th January 2021
 
 
 ## Vision
