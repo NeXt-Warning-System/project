@@ -13,8 +13,9 @@ Prepared by: XWS Alpha Team
 * Alpha team day - sharing information on Domain Driven Design (event mapping) and how we can manage user stories and acceptance criteria 
 * Initial discussions with Extermal Digital Services on CAP XML and potential uses in XWS, we will explore more in the new year with the Alpha team, FWEP and FIM service
 * EDW seperation discovery kick-off with External Digital Services to start thinking about what we want and next steps
-* Catch with Lucy Jarvis our Flood Resilience Team Leader rep on the XWS project board
+* Catch up with Lucy Jarvis our Flood Resilience Team Leader rep on the XWS project board
 * Preparing questions for Floodline agents to help get additional external participants for user research
+* Considering the development approach for a "Hazard agnostic" system
 
 ## What we’re planning for next week
 
