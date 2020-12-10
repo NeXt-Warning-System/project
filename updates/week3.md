@@ -9,6 +9,7 @@ Prepared by: XWS Alpha Team
 * refining our ways of working
 * preparing for next weeks user testing on our external users prototype
 * exploring the benefits of Domain Driven Design
+* increasing our understanding of Targeted Flood Warning Service via a show and tell
 
 ## What we’re planning for next week
 
