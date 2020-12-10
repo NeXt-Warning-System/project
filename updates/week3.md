@@ -17,8 +17,8 @@ Prepared by: XWS Alpha Team
 * Preparing questions for Floodline agents to help get additional external participants for user research
 * Considering the development approach for a "Hazard agnostic" system
 * Confirmation that Content Designer will be be joining Defra and XWS Team on 4th Jan 2021
-* Investigating and presenting to the team the ideas around Domain Driven Design and Event Storming as potential candidates to add to our ways of working
-* Investigation the use of docker and docker-compose to enable new developers to get the four POC services and the backing DB held in the monorepo up and running locally
+* Investigating and presenting to the team the ideas around [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html) and [Event Storming](https://techbeacon.com/devops/introduction-event-storming-easy-way-achieve-domain-driven-design) as potential candidates to add to our ways of working
+* Investigation the use of docker and docker-compose to enable new developers to get the four POC services and the backing DB up and running locally
 
 ## What we’re planning for next week
 
