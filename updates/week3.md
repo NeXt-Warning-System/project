@@ -13,7 +13,7 @@ Prepared by: XWS Alpha Team
 ## What we’re planning for next week
 
 * user testing with external users
-* flood user centred design meet up sharing research findings
+* wider Flood team user centred design community meet up sharing research findings
 
 ## Blockers, issues or questions
 
