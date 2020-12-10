@@ -16,6 +16,7 @@ Prepared by: XWS Alpha Team
 * Catch up with Lucy Jarvis our Flood Resilience Team Leader rep on the XWS project board
 * Preparing questions for Floodline agents to help get additional external participants for user research
 * Considering the development approach for a "Hazard agnostic" system
+* Confirmation that Content Designer will be be joining Defra and XWS Team on 4th Jan 2021
 
 ## What we’re planning for next week
 
