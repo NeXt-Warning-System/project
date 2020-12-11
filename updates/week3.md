@@ -8,9 +8,8 @@ Prepared by: XWS Alpha Team
 * Refining the user needs that came out of our user testing 
 * Refining our ways of working
 * Preparing for next weeks user testing on our external users prototype
-* Exploring the benefits of Domain Driven Design
 * Increasing our understanding of Targeted Flood Warning Service via a show and tell
-* Alpha team day - sharing information on Domain Driven Design (event mapping) and how we can manage user stories and acceptance criteria 
+* Exploring how we can manage user stories and acceptance criteria 
 * Initial discussions with Extermal Digital Services on CAP XML and potential uses in XWS, we will explore more in the new year with the Alpha team, FWEP and FIM service
 * EDW seperation discovery kick-off with External Digital Services to start thinking about what we want and next steps
 * Catch up with Lucy Jarvis our Flood Resilience Team Leader rep on the XWS project board
@@ -30,11 +29,10 @@ Prepared by: XWS Alpha Team
 * Continue working on the local development experience and documentation for developers
 * Consider when and how we will run an Event Storming session early in the New Year
 
-
 ## Blockers, issues or questions
 
-* 
+* None
 
 ## Biggest risks
 
-* 
+* Staff availability due to Covid-19
