@@ -13,6 +13,7 @@ Prepared by: XWS Alpha Team
 * Initial discussions with Extermal Digital Services on CAP XML and potential uses in XWS, we will explore more in the new year with the Alpha team, FWEP and FIM service
 * EDW seperation discovery kick-off with External Digital Services to start thinking about what we want and next steps
 * Catch up with Lucy Jarvis our Flood Resilience Team Leader rep on the XWS project board
+* Engagement session with Evidence & Business need to follow up on other hazards needs in a warning system
 * Preparing questions for Floodline agents to help get additional external participants for user research
 * Considering the development approach for a "Hazard agnostic" system
 * Confirmation that Content Designer will be be joining Defra and XWS Team on 4th Jan 2021
