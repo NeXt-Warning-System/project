@@ -24,6 +24,7 @@ Prepared by: XWS Alpha Team
 
 * User testing with external users
 * Wider Flood team user centred design community meet up sharing research findings
+* Engagement sessions with AFCRMs on XWS project board
 * XWS Project Board
 * Alpha Show & Share (recordings will be shared next week)
 * Reporting and administration discussions with External Digital Services
