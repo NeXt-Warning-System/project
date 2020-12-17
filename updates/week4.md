@@ -5,7 +5,9 @@ Prepared by: XWS Alpha Team
 
 ## What we’ve been up to this week
 
-* 
+* External User research session to gather feedback about the subsciption service
+* Further prioritisation of user stories
+* Building up the backlog of user stories in Jira
 
 ## What we’re planning for next week
 
