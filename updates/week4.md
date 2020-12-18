@@ -9,7 +9,7 @@ Prepared by: XWS Alpha Team
 * Further prioritisation of user stories
 * Building up the backlog of user stories in Jira
 * Creating the artefacts for local development of the 4 subsystems using Docker
-* Creating the Continuous Integration and Continuous Deployment (CI/CD) development pipelines in the using Github Actions
+* Creating the Continuous Integration and Continuous Deployment (CI/CD) development pipelines using Github Actions
 
 ## What we’re planning for next week
 
