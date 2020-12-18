@@ -19,6 +19,7 @@ Prepared by: XWS Alpha Team
 
 * Reviewing our ways of working and post Christmas goals
 * Reviewing progress against the service standard to ensure we are on track for GDS assessment
+* Alpha activity exploring blue-sky options to meet the main user needs
 * Plan user story roadmap
 * Start design iterations against proiritised user stories
 
