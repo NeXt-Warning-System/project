@@ -7,6 +7,8 @@ Prepared by: XWS Alpha Team
 
 * XWS Project Board
 * First XWS Alpha Show & Share
+  *	[Architecture & development platforms](https://drive.google.com/file/d/1WttA3zB8qYhVjGx0CUMTdo_Kp72Hin0w/view?usp=sharing)
+  * [First stage Internal User Research](https://drive.google.com/file/d/1tkVs7KzZm_WsDoF3mxahJQG3K9GIYkyS/view?usp=sharing)
 * External User research session to gather feedback about the subsciption service prototype
 * Further prioritisation of user stories
 * Building up the backlog of user stories in Jira
