@@ -18,7 +18,7 @@ Prepared by: XWS Alpha Team
 ## What we’re planning for next week
 
 * Reviewing our ways of working and post Christmas goals
-* Start to monitor progress against the service standard to ensure we are on track for GDS assessment
+* Reviewing progress against the service standard to ensure we are on track for GDS assessment
 * Plan user story roadmap
 * Start design iterations against proiritised user stories
 
