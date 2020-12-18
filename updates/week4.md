@@ -29,7 +29,6 @@ Prepared by: XWS Alpha Team
 
 * Trying to recruit external users is always a challenge, we are reaching out to other groups to support us in this area
 
-
 ## Biggest risks
 
-*
+* None
