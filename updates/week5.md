@@ -10,13 +10,14 @@ Prepared by: XWS Alpha Team
 * Started prototyping selecting target area, and selecting severity level
 * Drafting Alpha GDS Spend Control document in preparation for submission into the review and approve process
 * Sharing the proposed Architecture  with Defra Digital Data and Technology Stakeholders to ratify the general approach and to gain feedback
-* User Research Session with citizens with other's currently booked in
-* User Research ongoing prearpation work to recuit more users and reaching out to others to help to recruit more participants
+* User Research Session with citizens with other's booked in
+* User Research ongoing preparation work to recuit more users and reaching out to others to help to recruit more participants via floodline and Flood Resilience Group and via the teams own networks
 
 ## What we’re planning for next week
 
 * Continue building interactive prototype screens for the next round of user testing
 * Further user research sessions with citizens
+* Submitting Alpha GDS Spend Control approval form for review and feedback
 
 ## Blockers, issues or questions
 
