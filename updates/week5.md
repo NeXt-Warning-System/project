@@ -24,4 +24,4 @@ Prepared by: XWS Alpha Team
 
 ## Biggest risks
 
-* Covid 19 Lockdown and home schooling will affect people to deliver and for people have input into the design of this service
+* Covid 19 Lockdown and home schooling will affect people's capacity to deliver and for people to have capacity to have input into the design and delivery of this service
