@@ -6,7 +6,7 @@ Prepared by: XWS Alpha Team
 ## What we’ve been up to this week
 
 * Natalie our new content designer joined the team
-* Colaborated on design sketches for the second iteration of selecting severity level, and selecting a target area; for internal users creating an alert
+* Collaborated on design sketches for the second iteration of selecting severity level, and selecting a target area; for internal users creating an alert
 * started prototyping selecting target area, and selecting severity level
 
 ## What we’re planning for next week
@@ -19,4 +19,4 @@ Prepared by: XWS Alpha Team
 
 ## Biggest risks
 
-*
+* Covid 19 Lockdown and home schooling will affect people to deliver and for people have input into the design of this service
