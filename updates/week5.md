@@ -14,6 +14,8 @@ Prepared by: XWS Alpha Team
 * User Research ongoing preparation work to recuit more users and reaching out to others to help to recruit more participants via floodline and Flood Resilience Group and via the teams own networks
 * Prioritising additional user needs from user research sessions
 * Reviewing TFWS backlog and plans for Discovery
+* Revisiting the AWS-centric version of the notification engine including services: EventBridge, SNS, SQS, SES and Pinpoint
+* Started to collate current system metrics and performance which will allow us to make better informed architectture choices
 * Starting to assess the impacts of Covid 19 lockdown on the XWS project
 
 ## What we’re planning for next week
