@@ -12,16 +12,22 @@ Prepared by: XWS Alpha Team
 * Sharing the proposed Architecture  with Defra Digital Data and Technology Stakeholders to ratify the general approach and to gain feedback
 * User Research Session with citizens with other's booked in
 * User Research ongoing preparation work to recuit more users and reaching out to others to help to recruit more participants via floodline and Flood Resilience Group and via the teams own networks
+* Prioritising additional user needs from user research sessions
+* Reviewing TFWS backlog and plans for Discovery
+* Starting to assess the impacts of Covid 19 lockdown on the XWS project
 
 ## What we’re planning for next week
 
 * Continue building interactive prototype screens for the next round of user testing
 * Further user research sessions with citizens
 * Submitting Alpha GDS Spend Control approval form for review and feedback
+* Catch up with NRW
+* Meeting with External Digital Services to discuss administration user needs
+* Continuing to assess the impacts of Covid 19 lockdown on the XWS project
 
 ## Blockers, issues or questions
 
-* 
+* None
 
 ## Biggest risks
 
