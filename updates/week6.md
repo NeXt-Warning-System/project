@@ -12,6 +12,8 @@ Prepared by: XWS Alpha Team
 * Conducted 3 external user research session with the Registration Prototype V1.0 (well 2 up until today with 1 booked in for tomorrow)
 * Capturing Main Findings from the research sessions
 * Continuing to recruit additional external user participants
+* Create tools for managing secrets in our github repositories as part of our CI pipelines
+* Begin researching message brokers and event streaming technologies for us in the 2nd reference implementation
 
 
 ## What we’re planning for next week
@@ -21,6 +23,8 @@ Prepared by: XWS Alpha Team
 * Creation of Show N Tell Presentation; sharing findings with the wider project team
 * Preparation and planning for internal user research sessions w/c 25/01/21 for Messaging Process elements
 * Continuing to recruit additional external user participants
+* Continue researching message brokers and event streaming technologies
+* Hold an event storming session for producing a process map of the current processes
 
 
 ## Blockers, issues or questions
