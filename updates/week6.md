@@ -8,12 +8,14 @@ Prepared by: XWS Alpha Team
 * Created more backlog story tickets in Jira using the prioritised user needs
 * Meeting to discuss the future possible Administration functions required by XWS looking at current FWS functions
 * Show and share knowledge of the new work on the scripting tool embedded into FWS as a prototype
-* "Blue sky thinking" session for team to consider areas of work which we might want to look at that could impact XWS that we dont alreay have on our radar including areas that are not neccesarily going to be solved by the DDTS project team
+* "Blue sky thinking" session for team to consider areas of work which we might want to look at that could impact XWS that we dont already have on our radar including areas that are not neccesarily going to be solved by the DDTS project team
 * Conducted 3 external user research session with the Registration Prototype V1.0 (well 2 up until today with 1 booked in for tomorrow)
 * Capturing Main Findings from the research sessions
 * Continuing to recruit additional external user participants
 * Create tools for managing secrets in our github repositories as part of our CI pipelines
 * Begin researching message brokers and event streaming technologies for use in the 2nd reference implementation
+* Engagement with Natural Resource Wales regarding there options going forward for doing there own servive and a managed service
+* Engagement with Defra Cloud Service Centre around architecture, hosting and Proof of Concept Environments
 
 
 ## What we’re planning for next week
@@ -33,4 +35,4 @@ Prepared by: XWS Alpha Team
 
 ## Biggest risks
 
-* 
+* Due to the impact of lockdown 3, homeschooling and caring responsibilites etc the availability of people (Citizens and Internal Staff) to have input into the design will be impacted
