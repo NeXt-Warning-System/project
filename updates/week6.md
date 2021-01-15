@@ -32,7 +32,7 @@ Prepared by: XWS Alpha Team
 
 ## Blockers, issues or questions
 
-* 
+* None
 
 ## Biggest risks
 
