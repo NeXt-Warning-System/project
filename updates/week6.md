@@ -36,4 +36,5 @@ Prepared by: XWS Alpha Team
 
 ## Biggest risks
 
-* Due to the impact of lockdown 3, homeschooling and caring responsibilites etc the availability of people (Citizens and Internal Staff) to have input into the design will be impacted
+* Due to the impact of lockdown 3, homeschooling and caring responsibilities will affect people's capacity to deliver and for people (Citizens and Internal Staff) to have input into the design and delivery of this service
+
