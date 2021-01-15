@@ -16,6 +16,7 @@ Prepared by: XWS Alpha Team
 * Begin researching message brokers and event streaming technologies for use in the 2nd reference implementation
 * Engagement with Natural Resource Wales regarding there options going forward for doing there own servive and a managed service
 * Engagement with Defra Cloud Service Centre around architecture, hosting and Proof of Concept Environments
+* Engagement with Data Protection Team as part of GDPR and as part of the GDS Standard Privacy by design
 
 
 ## What we’re planning for next week
