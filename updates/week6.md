@@ -13,7 +13,7 @@ Prepared by: XWS Alpha Team
 * Capturing Main Findings from the research sessions
 * Continuing to recruit additional external user participants
 * Create tools for managing secrets in our github repositories as part of our CI pipelines
-* Begin researching message brokers and event streaming technologies for us in the 2nd reference implementation
+* Begin researching message brokers and event streaming technologies for use in the 2nd reference implementation
 
 
 ## What we’re planning for next week
