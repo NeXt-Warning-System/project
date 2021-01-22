@@ -17,7 +17,7 @@ Prepared by: XWS Alpha Team
 * Continuing to recruit additional external user participants
 * Identifying additional user needs for XWS from recent feedback on FIS
 * Meeting with EDS to discuss the future User Roles & Responsibilities in XWS
-
+* Looking into how event streaming and message brokers could be used to manage work queues and the issued alert feed. This includes testing RabbitMQ, Kafka, EventBridge, Kinesis, ksqldb, BullMQ (Redis) amongst others
 
 ## What we’re planning for next week
 
@@ -28,6 +28,7 @@ Prepared by: XWS Alpha Team
 * Continuing to recruit additional external user participants
 * Meeting to agree MVP user stories
 * Meeting with Flood Incident Management Service team to catch up on Service and Policy issues
+* Continue spike around event streaming including looking into monitoring/alerting dashboard options
 
 
 ## Blockers, issues or questions
