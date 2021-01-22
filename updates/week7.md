@@ -5,6 +5,8 @@ Prepared by: XWS Alpha Team
 
 ## What we’ve been up to this week
 
+* Following on from an Alpha team planning session we are now focusing on the Message Sending element of XWS and pausing our work on the Online Registration prototype
+* Working on defining the foundations of XWS architecture
 * Conducted 1 external user research session with the Registration Prototype V1.0 
 * Captured Main Findings from the research sessions
 * Analysed the outputs from the external user research sessions and agreed main findings
@@ -13,6 +15,8 @@ Prepared by: XWS Alpha Team
 * Review FWS feedback
 * Finalisation of Show N Tell Presentation; sharing findings with the project team
 * Continuing to recruit additional external user participants
+* Identifying additional user needs for XWS from recent feedback on FIS
+* Meeting with EDS to discuss the future User Roles & Responsibilities in XWS
 
 
 ## What we’re planning for next week
@@ -22,6 +26,8 @@ Prepared by: XWS Alpha Team
 * Walkthrough of internal user Prototype v2
 * Conduct internal user research sessions 
 * Continuing to recruit additional external user participants
+* Meeting to agree MVP user stories
+* Meeting with Flood Incident Management Service team to catch up on Service and Policy issues
 
 
 ## Blockers, issues or questions
