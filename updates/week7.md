@@ -1,5 +1,5 @@
-# NeXt Warning System (XWS) Week X Update
-**Week beginning: 18th January 2021** 
+# NeXt Warning System (XWS) Week 7 Update
+**Week beginning: 18 January 2021** 
 
 Prepared by: XWS Alpha Team
 
@@ -38,4 +38,4 @@ Prepared by: XWS Alpha Team
 
 * Due to the impact of lockdown 3, homeschooling and caring responsibilities will affect people's capacity to deliver and for people (Citizens and Internal Staff) to have input into the design and delivery of this service
 
-Impact - the Options Appraisal and Alpha  programme has been by 8 weeks to mitigate lost time in Q3 and expected lost time in Q4.  The Alpha phase and Outline Business Case are likely to be finished towards the end of May 2021.
+Impact - the Options Appraisal and Alpha programme has been by 8 weeks to mitigate lost time in Q3 and expected lost time in Q4. The Alpha phase and Outline Business Case are likely to be finished towards the end of May 2021.
