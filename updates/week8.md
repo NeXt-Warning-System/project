@@ -9,7 +9,7 @@ Prepared by: XWS Alpha Team
 * reviewed and updated our target service architecture
 * attended Collaboration Session with Department for Education regarding Digital Transformation
 * Discovered some research and stastics for that give us a wider context of take up of internet usage over time https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage
-* Feedback from GDS that "back office" application are in not in scope for assessment but want to understand what is being improved in the wider context.  This feedback is going to feed what we prioritize in the next time box
+* Feedback from GDS that "back office" application are in not in scope for assessment but want to understand what is being improved in the wider context.  This feedback is feeding into what we prioritize in the next time box
 
 
 
