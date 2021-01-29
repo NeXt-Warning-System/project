@@ -6,6 +6,7 @@ Prepared by: XWS Alpha Team
 ## What we’ve been up to this week
 
 * Prototyping and user testing target area and severity level selection for back office users
+* Consolidated, Presented and shared the finding from our 4 external user research sessions
 * reviewed and updated our target service architecture
 * attended Collaboration Session with Department for Education regarding Digital Transformation
 * Discovered some research and stastics for that give us a wider context of take up of internet usage over time https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage
