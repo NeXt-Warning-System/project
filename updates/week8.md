@@ -12,7 +12,7 @@ Prepared by: XWS Alpha Team
 * Discovered some research and statistics that give us a [wider context of take up of internet usage over time](https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage)
 * Feedback from our GDS assessor colleague that "back office" application are not in scope for assessment but want to understand what is being improved in the wider context.  This feedback is feeding into what we prioritize in the next time box
 * Review of open source message system https://www.rabbitmq.com/ and https://kafka.apache.org/ as part of the technologigy selection
-* [Show N Tell Presentation](https://drive.google.com/file/d/1vv9d4QHQXQe8FF3HHvhBIjSMD2iAW9K0/view?usp=sharing); sharing findings of External User Research with the project team
+* [Show N Tell Presentation](https://drive.google.com/file/d/1vv9d4QHQXQe8FF3HHvhBIjSMD2iAW9K0/view?usp=sharing) sharing findings of External User Research with the project team
 * Scheduling in internal user research sessions 28/01/21 to 03/02/2021 for Messaging Process elements
 * Walkthrough of internal user Prototype v2
 * Agreeing P2 interview questions and interview preparation
