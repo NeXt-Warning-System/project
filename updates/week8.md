@@ -22,7 +22,7 @@ Prepared by: XWS Alpha Team
 
 ## Blockers, issues or questions
 
-* 
+* Capacity and availabilty of team, internal users and members of the public to be involved in the design and creation of this is an ongoing constraint that we continue to monitor.  We are reaching to various networks to recruit users, but recognise and accept things may get cancelled
 
 ## Biggest risks
 
