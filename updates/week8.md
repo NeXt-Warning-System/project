@@ -9,16 +9,15 @@ Prepared by: XWS Alpha Team
 * reviewed and updated our target service architecture
 * attended Collaboration Session with Department for Education regarding Digital Transformation
 * Discovered some research and stastics for that give us a wider context of take up of internet usage over time https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage
-* Feedback from GDS that "back office" application are in not in scope for assessment but want to understand what is being improved in the wider context.  This feedback is feeding into what we prioritize in the next time box
+* Feedback from our GDS assessor colleague that "back office" application are not in scope for assessment but want to understand what is being improved in the wider context.  This feedback is feeding into what we prioritize in the next time box
 * Review of open source message system https://www.rabbitmq.com/ and https://kafka.apache.org/ as part of the technologigy selection
-
 
 
 ## What we’re planning for next week
 
 * Continue user testing target area and severity level selection for back office users
-* Catch Up with our with our GDS Assessor regarding progress and Alpha Assessment
-* Backlog refinement and prioritizaton for next 3 weeks
+* Catch Up with our with our GDS Assessor colleague regarding progress and Alpha Assessment
+* Backlog refinement and prioritizaton for next 3 weeks, Show and Share, Retrospective and planning session
 
 
 ## Blockers, issues or questions
