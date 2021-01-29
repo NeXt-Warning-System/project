@@ -9,7 +9,7 @@ Prepared by: XWS Alpha Team
 * Consolidated, Presented and shared the finding from our 4 external user research sessions
 * reviewed and updated our target service architecture
 * attended Collaboration Session with Department for Education regarding Digital Transformation
-* Discovered some research and stastics for that give us a wider context of take up of internet usage over time https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage
+* Discovered some research and statistics that give us a wider context of take up of internet usage over time https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage
 * Feedback from our GDS assessor colleague that "back office" application are not in scope for assessment but want to understand what is being improved in the wider context.  This feedback is feeding into what we prioritize in the next time box
 * Review of open source message system https://www.rabbitmq.com/ and https://kafka.apache.org/ as part of the technologigy selection
 
