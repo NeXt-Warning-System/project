@@ -18,6 +18,7 @@
 * [Week 7](/updates/week7.md) - week beginning 18th January 2021
 * [Week 8](/updates/week8.md) - week beginning 25th January 2021
 * [Week 9](/updates/week9.md) - week beginning 1st February 2021
+* [Week 10](/updates/week10.md) - week beginning 8th February 2021
 
 
 ## Vision
