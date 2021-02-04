@@ -5,11 +5,21 @@ Prepared by: XWS Alpha Team
 
 ## What we’ve been up to this week
 
-* 
+* Continuing with further rounds of research with internal users – Prototype 2
+* Capture Main Findings from the research sessions
+* Analyse the outputs from the internal user research sessions and agree main findings
+* Elicit user needs from the internal user research sessions
+* Create Show N Tell Presentation; User Research
+* Continuing to recruit additional external user participants
 
 ## What we’re planning for next week
 
-* 
+* Show N Tell Presentation; sharing findings with the project team
+* Correspond to FWS respondents 
+* Correspond with Flood-line respondents
+* Continuing to recruit additional external user participants
+* Event Mapping Sessions
+* Looking into producing a TWITTER survey
 
 ## Blockers, issues or questions
 
@@ -17,4 +27,4 @@ Prepared by: XWS Alpha Team
 
 ## Biggest risks
 
-* 
+* Due to the impact of lockdown 3, homeschooling and caring responsibilities will affect people's capacity to deliver and for people (Citizens and Internal Staff) to have input into the design and delivery of this service
