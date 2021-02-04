@@ -16,7 +16,7 @@ Prepared by: XWS Alpha Team
 
 * Show N Tell Presentation; sharing findings with the project team
 * Correspond to FWS respondents 
-* Correspond with Flood-line respondents
+* Correspond with Floodline respondents
 * Continuing to recruit additional external user participants
 * Event Mapping Sessions
 * Looking into producing a TWITTER survey
