@@ -23,6 +23,7 @@ Prepared by: XWS Alpha Team
 * Event Mapping Sessions
 * Looking into producing a TWITTER survey
 * Design for external users finding a location for their flood warnings
+* Investigate information provided to help users understand flood warning terminology
 
 ## Blockers, issues or questions
 
