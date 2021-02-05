@@ -18,6 +18,10 @@ Prepared by: XWS Alpha Team
 * Initial work on the producers/enqueuers and consumers/dequeuers for the initial issuing of an alert
 * Work on a JS CAPXML library
 * Investigation into AWS Pinpoint for the Voice channel to see if it will support our needs
+* Updated our [XWS architecture view](https://github.com/NeXt-Warning-System/project/blob/master/XWS%20Architecture%20View%2001.02.2021.pptx)
+* Working with FIM service to move forward delivery of wider Flood Warning Service Improvements
+* Planning sessions for next 4 weeks of delivery
+* Meeting with GDS to start planning for our Alpha assessment
 
 ## What we’re planning for next week
 
@@ -33,6 +37,7 @@ Prepared by: XWS Alpha Team
 * More developer onboarding (Paul Shaw)
 * Technical discussions focussed on the contact and area subsystems
 * Further microservice (subsystem) decoupling using RabbitMQ
+* Meetings with FIM service to discuss addressing message uncertainty and automation
 
 ## Blockers, issues or questions
 
