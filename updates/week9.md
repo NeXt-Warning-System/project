@@ -11,6 +11,8 @@ Prepared by: XWS Alpha Team
 * Elicit user needs from the internal user research sessions
 * Create Show N Tell Presentation; User Research
 * Continuing to recruit additional external user participants
+* Change design focus to external user registration, starting with design research for finding a location
+
 
 ## What we’re planning for next week
 
@@ -20,6 +22,7 @@ Prepared by: XWS Alpha Team
 * Continuing to recruit additional external user participants
 * Event Mapping Sessions
 * Looking into producing a TWITTER survey
+* Design for external users finding a location for their flood warnings
 
 ## Blockers, issues or questions
 
