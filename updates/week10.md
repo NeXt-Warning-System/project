@@ -15,6 +15,7 @@ Prepared by: XWS Alpha Team
 * Correspond with public for those are signed up to existing Flood warning system and flood line respondents
 * Interview Preparation for External User Prototype III research sessions (w/c 22/02/21)
 * Continuing to recruit additional external user participants
+* Design sketching around the journey for Finding a location
 
 
 ## What we’re planning for next week
@@ -23,6 +24,8 @@ Prepared by: XWS Alpha Team
 * Prototype III familiarisation
 * Identifying external users and setting up research sessions  for Prototype III (w/c 22/02/21) 
 * Continuing to recruit additional external user participants
+* Design wireframing around the journey for Finding a location
+
 
 
 ## Blockers, issues or questions
