@@ -17,6 +17,8 @@ Prepared by: XWS Alpha Team
 * Continuing to recruit additional external user participants
 * Design sketching around the journey for Finding a location
 * drafted wireframes to provide information about flood terminology
+* Continued development of the core engine based around messaging (RabbitMQ)
+* More work on the build CI / CD pipeline (Github Actions / PaaS)
 
 
 ## What we’re planning for next week
@@ -26,6 +28,8 @@ Prepared by: XWS Alpha Team
 * Identifying external users and setting up research sessions  for Prototype III (w/c 22/02/21) 
 * Continuing to recruit additional external user participants
 * Design wireframing around the journey for Finding a location
+* Deeper discussion around AWS commodity services (e.g. Connect)
+* Finish the RabbitMQ messaging approach and stand up similar approach in AWS
 
 
 ## Blockers, issues or questions
