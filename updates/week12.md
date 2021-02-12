@@ -1,5 +1,5 @@
-# NeXt Warning System (XWS) Week X Update
-**Week beginning: XXX** 
+# NeXt Warning System (XWS) Week 12 Update
+**Week beginning: 22nd February** 
 
 Prepared by: XWS Alpha Team
 
@@ -17,4 +17,4 @@ Prepared by: XWS Alpha Team
 
 ## Biggest risks
 
-* 
+* Due to the impact of lockdown 3, homeschooling and caring responsibilities will affect people's capacity to deliver and for people (Citizens and Internal Staff) to have input into the design and delivery of this service
