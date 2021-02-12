@@ -1,5 +1,5 @@
 # NeXt Warning System (XWS) Week X Update
-**Week beginning: XXX** 
+**Week beginning: 8th February** 
 
 Prepared by: XWS Alpha Team
 
@@ -18,7 +18,9 @@ Prepared by: XWS Alpha Team
 * Design sketching around the journey for Finding a location
 * drafted wireframes to provide information about flood terminology
 * Continued development of the core engine based around messaging (RabbitMQ)
+* Configuration of gov.uk PaaS (our current development environment) to switch to Postgres as a backing service 
 * More work on the build CI / CD pipeline (Github Actions / PaaS)
+* Ran Event Mapping sessions with EDS and other domain experts to produce a process flow map, focused around events, for the current systems
 
 
 ## What we’re planning for next week
