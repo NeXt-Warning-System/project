@@ -16,6 +16,7 @@ Prepared by: XWS Alpha Team
 * Interview Preparation for External User Prototype III research sessions (w/c 22/02/21)
 * Continuing to recruit additional external user participants
 * Design sketching around the journey for Finding a location
+* drafted wireframes to provide information about flood terminology
 
 
 ## What we’re planning for next week
@@ -25,7 +26,6 @@ Prepared by: XWS Alpha Team
 * Identifying external users and setting up research sessions  for Prototype III (w/c 22/02/21) 
 * Continuing to recruit additional external user participants
 * Design wireframing around the journey for Finding a location
-
 
 
 ## Blockers, issues or questions
