@@ -20,6 +20,7 @@ Prepared by: XWS Alpha Team
 * Continued development of the core engine based around messaging (RabbitMQ)
 * Configuration of gov.uk PaaS (our current development environment) to switch to Postgres as a backing service 
 * More work on the build CI / CD pipeline (Github Actions / PaaS)
+* Met with FIM service & FWEP to discuss addressing message uncertainty and automation
 
 ## What we’re planning for next week
 
