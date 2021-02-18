@@ -19,7 +19,7 @@ Prepared by: XWS Alpha Team
 
 * We have a Project Board
 * Booking and Preparing for research with external users
-* reviewing CV's to recruit test engineer
+* reviewing CV's to recruit test engineer with looking at interview w/c 01/03
 
 ## Blockers, issues or questions
 
