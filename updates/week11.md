@@ -17,11 +17,13 @@ Prepared by: XWS Alpha Team
 
 ## What we’re planning for next week
 
-* 
+* We have a Project Board
+* Booking and Preparing for research with external users
+* reviewing CV's to recruit test engineer
 
 ## Blockers, issues or questions
 
-* consideration and decision required around if we are providing landlines call and Interactive Voice Recognition at the expected same volume as this may require a "cloud contact centre type capability" and influence the design, architecture and development
+* consideration and decision required around if we are providing landline calls and Interactive Voice Recognition at the existing volumes as this may require a "cloud contact centre type capability" and influence the design, architecture and development.
 
 ## Biggest risks
 
