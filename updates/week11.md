@@ -12,6 +12,8 @@ Prepared by: XWS Alpha Team
 * Design wireframing around the journey for Finding a location
 * Deeper discussion around AWS commodity services (e.g. Connect)
 * Finish the RabbitMQ messaging approach and stand up similar approach in AWS
+* draft Options to enable consideration for Landline and interactive voice
+* monthly financial reporting 
 
 ## What we’re planning for next week
 
@@ -19,7 +21,7 @@ Prepared by: XWS Alpha Team
 
 ## Blockers, issues or questions
 
-* 
+* consideration and decision required around if we are providing landlines call and Interactive Voice Recognition at the expected same volume as this may require a "cloud contact centre type capability" and influence the design, architecture and development
 
 ## Biggest risks
 
