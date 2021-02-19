@@ -1,5 +1,5 @@
 # NeXt Warning System (XWS) Week 3 Update
-**Week beginning: 7th December 2020** 
+**Week beginning: 7 December 2020** 
 
 Prepared by: XWS Alpha Team
 

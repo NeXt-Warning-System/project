@@ -1,5 +1,5 @@
 # NeXt Warning System (XWS) Week 2 Update
-**Week beginning: 30th November** 
+**Week beginning: 30 November** 
 
 Prepared by: XWS Alpha Team
 

@@ -1,5 +1,5 @@
 # NeXt Warning System (XWS) Week 12 Update
-**Week beginning: 22nd February** 
+**Week beginning: 22 February 2021** 
 
 Prepared by: XWS Alpha Team
 

@@ -1,5 +1,5 @@
 # NeXt Warning System (XWS) Week 6 Update
-**Week beginning: 11/01/2021**
+**Week beginning: 11 January 2021**
 
 Prepared by: XWS Alpha Team
 
