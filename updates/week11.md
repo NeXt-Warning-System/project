@@ -5,11 +5,12 @@ Prepared by: XWS Alpha Team
 
 ## What we’ve been up to this week
 
-* Interview Preparation for External User Prototype II research sessions (w/c 22/02/21)
-* Prototype II familiarisation
-* Identifying external users and setting up research sessions  for Prototype III (w/c 22/02/21) 
+* Interview Preparation for External User research sessions looking into finding a location and flood terminoligy (w/c 22/02/21)
+* Research documents familiarisation
+* Identifying external users and setting up research sessions (w/c 22/02/21) 
 * Continuing to recruit additional external user participants
-* Design wireframing around the journey for Finding a location
+* Design wireframing and research conversations around the journey for finding a location
+* Looking ahead to sign in and subscription and preparing research for design
 * Deeper discussion around AWS commodity services (e.g. Connect)
 * Finish the RabbitMQ messaging approach and stand up similar approach in AWS
 * draft Options to enable consideration for Landline and interactive voice recognition
@@ -22,11 +23,13 @@ Prepared by: XWS Alpha Team
 
 * We have a Project Board & GDS Spend approval session
 * reviewing CV's to recruit test engineer with looking at interview w/c 01/03
-* Finalising interview preparation for External User Prototype II research sessions 
-* Conducting External User Prototype II research sessions
+* Finalising interview preparation for External User research sessions 
+* Conducting External User research sessions
 * Managing the additional content “highlighting tests” with external users
-* Capturing main findings from individual External User Prototype II research sessions
+* Capturing main findings from individual External User research sessions
 * Continuing to recruit additional external user participants
+* Research external user feedback around Flood Alerts
+* Continue sign up/subscription, and find a location design research
 
 
 ## Blockers, issues or questions
