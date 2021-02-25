@@ -5,11 +5,14 @@ Prepared by: XWS Alpha Team
 
 ## What we’ve been up to this week
 
-* 
+* User research sessions with external users testing selecting location and content
+* Meeting to get an introduction and share understanding with Flood warning expansion project
+* Google analytics investigation for current service on location searching
 
 ## What we’re planning for next week
 
-* 
+* More user research
+* Planning next phase of work
 
 ## Blockers, issues or questions
 
