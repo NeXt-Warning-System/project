@@ -18,6 +18,8 @@ Prepared by: XWS Alpha Team
 * Reviewing CV's to recruit test engineer with looking at interview w/c 01/03
 * Continue sign up/subscription, and find a location design research
 * Catch up between XWS & FWEP to discuss requirements and resources on overlapping message content work
+* We gained GDS Spend Control for XWS Alpha with status of monitor
+* we had a Project Board as part of the Governance on the initative
 
 ## What we’re planning for next week
 
@@ -32,7 +34,7 @@ Prepared by: XWS Alpha Team
 
 ## Blockers, issues or questions
 
-* 
+* Decision required on if we are providing telephony & IVR
 
 ## Biggest risks
 
