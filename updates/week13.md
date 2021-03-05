@@ -5,16 +5,21 @@ Prepared by: XWS Alpha Team
 
 ## What we’ve been up to this week
 
-* 
+*	Further investigation into Pinpoint as a mechanism for orchestrating message delivery
+*	Interviews with candidates for test engineer role
+*	Architecture/Development review of POC to ensure common understanding
+*	Retrospective facilitation for the Project team
+*	Demonstration of XWS POC at the NE Developers COP
 
 ## What we’re planning for next week
 
-* 
+* Continue Investigation into Pinpoint
+* Identify ballpark costs for the various technical options
+* Start an options paper on those solutions
 
 ## Blockers, issues or questions
 
 * 
 
-## Biggest risks
-
+#
 * 
