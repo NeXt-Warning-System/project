@@ -5,19 +5,19 @@ Prepared by: XWS Alpha Team
 
 ## What we’ve been up to this week
 
-*	3 User research sessions with external users testing selecting location
+*	2 User research sessions with external users testing selecting location
 *	Continuing to manage the additional content “highlighting tests” research with external users
 * Captured main findings from individual External User research sessions
 * Reviewed and analysed outputs from External User research sessions and capturing high level needs
 * Continuing to recruit additional external user participants
-* Assisted Digital “as is” process walkthrough
-* Creating Show N Tell Presentation
+* Meeting with External Digital Services (EDS) to discuss Assisted Digital “as is” process
+* Preperation for Show N Tell Presentations
 * Progressing with TWITTER survey planning 
 * Review of FWS feedback received and extracting any additional user needs
 *	Further investigation into Pinpoint as a mechanism for orchestrating message delivery
 *	Interviews with candidates for test engineer role
-*	Architecture/Development review of POC to ensure common understanding
-*	Retrospective facilitation for the Project team
+*	Architecture/Development review of proof of concept (POC) to ensure common understanding
+*	Project Team Retrospective we will be looking to continue to strengthen our relationship with EDS
 *	Demonstration of XWS POC at the NE Developers COP
 
 ## What we’re planning for next week
