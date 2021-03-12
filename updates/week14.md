@@ -14,13 +14,15 @@ Prepared by: XWS Alpha Team
 * Discussing and agreeing approach for external user research around “message content” 
 * Continuing to recruit additional external user participants
 * Drafted content for 'Find a location' designs ready for testing
-* Design sessions and feedback around Find a location
+* Design session and feedback around 'Find a location'
 * Research around target areas and warning areas
 * 2 prototypes for the message sending component deployed to defra AWS sandpit
 * Beginning work on reworking the contact model into a more subscription based approach
 * AWS immersion day meetings scheduled for end of the month
 * Begin discussion around a spike into the area subsystem with Paul Shaw
 * Begin to pull together a technical presentation of the to-be solution model
+* Working with EDS & FIM to start work planning the Flood Warning Service Improvements required on XWS, TFWS & EDW
+* Working with EDS to discuss how we breakdown the delivery of the FWS service
 
 ## What we’re planning for next week
 
@@ -31,8 +33,8 @@ Prepared by: XWS Alpha Team
 * Explore further the TO BE Assisted Digital/Back Office process and review the captured user needs for this process
 * Draft second iteration of flood terminology content
 * Prepare message content for testing
-* Further design sessions with SMEs around Find a location
-* Low fidelity prototyping for Find a location
+* Further design sessions with SMEs around 'Find a location'
+* Low fidelity prototyping for 'Find a location'
 * Continue to pull together a technical presentation of the to-be solution model
 
 ## Blockers, issues or questions
