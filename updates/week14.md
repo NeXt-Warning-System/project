@@ -15,6 +15,11 @@ Prepared by: XWS Alpha Team
 * Drafted content for 'Find a location' designs ready for testing
 * Design sessions and feedback around Find a location
 * Research around target areas and warning areas
+* 2 prototypes for the message sending component deployed to defra AWS sandpit
+* Beginning work on reworking the contact model into a more subscription based approach
+* AWS immersion day meetings scheduled for end of the month
+* Begin discussion around a spike into the area subsystem with Paul Shaw
+* Begin to pull together a technical presentation of the to-be solution model
 
 ## What we’re planning for next week
 
@@ -27,6 +32,7 @@ Prepared by: XWS Alpha Team
 * Prepare message content for testing
 * Further design sessions with SMEs around Find a location
 * Low fidelity prototyping for Find a location
+* Continue to pull together a technical presentation of the to-be solution model
 
 ## Blockers, issues or questions
 
