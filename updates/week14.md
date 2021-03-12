@@ -5,13 +5,14 @@ Prepared by: XWS Alpha Team
 
 ## What we’ve been up to this week
 
-* Review and analyse outputs from the landing page content “highlighting tests” research with external users
-* Presented Show N Tell to wider project team
+* We have finished our latest sprint, and shared our progress on 2 Show & Tell sessions covering:
+  * [User Centre Design including external user research and flood terminology content version 1](https://defra-meetings.webex.com/recordingservice/sites/defra-meetings/recording/23cb9fe5029c45b88c4cb50449ad155b/playback)
+  * [Technical Focus](https://defra-meetings.webex.com/recordingservice/sites/defra-meetings/recording/35a8b8cffbe245f8a47a7fae54dbee84/playback)
+* Reviewed and analysed outputs from the landing page content “highlighting tests” research with external users
 * Initial preparation for next round of external user research sessions; “sign up” process
-* Retro & planning, estimating and sizing team day
+* Held a team day to do a retro of this spring & planning, estimating and sizing for the next sprint
 * Discussing and agreeing approach for external user research around “message content” 
 * Continuing to recruit additional external user participants
-* Analysed and shared results from flood terminology content version 1
 * Drafted content for 'Find a location' designs ready for testing
 * Design sessions and feedback around Find a location
 * Research around target areas and warning areas
