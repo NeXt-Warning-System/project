@@ -1,5 +1,5 @@
 # NeXt Warning System (XWS) Week 14 Update
-**Week beginning: 8th March 2021 ** 
+**Week beginning: 8th March 2021** 
 
 Prepared by: XWS Alpha Team
 
